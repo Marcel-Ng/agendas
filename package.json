@@ -1,0 +1,11 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "This is a pure node application that implements the basics of the agenda app this do not use any framework and only one dependancy nodemon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Marcel Chidi",
+  "license": "ISC"
+}
